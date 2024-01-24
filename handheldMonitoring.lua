@@ -16,6 +16,7 @@ if retries >= maxRetries then
     shell.exit()
 end
 print("connections established")
+print("Nice Thresh Bro")
 os.sleep(5)
 mainTerminal.clear()
 
