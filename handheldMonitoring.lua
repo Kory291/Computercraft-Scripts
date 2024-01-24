@@ -1,3 +1,4 @@
+term.clear()
 rednet.open("back")
 maxRetries = 10
 retries = 0
