@@ -49,7 +49,7 @@ function getQuarryInfo()
         quarryInfoWindow.write("Quarry: läuft")
     else
         quarryInfoWindow.setBackgroundColor(colors.red)
-        quarryInfoWindow.write("Quarry: läuft nicht")  
+        quarryInfoWindow.write("Quarry: läuft nicht")
     end
 end
 
